@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <string name="sign_in_heaven">Sign In Heaven</string>
+</resources>
